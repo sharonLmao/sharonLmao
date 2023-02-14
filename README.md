@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharonLmao (machizmo)
 - 🌱 I’m currently learning coding
-- 🛠️ LUA, HTML, PYTHON, SQL...
+- 🛠️ LUA, HTML, JAVA SCRIPT, SQL...
 - 📫 How to reach me ... sharonshamay22@gmail.com
 
 <!---
