@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sharonLmao (machizmo)
-- 🌱 I’m currently learning coding
-- 🛠️ LUA, HTML, JAVA SCRIPT, SQL...
-- 📫 How to reach me ... sharonshamay22@gmail.com
+Hi, I’m @sharonLmao
+- 🛠️ ,HTML, JS, SQL, C++, LUA...
+-- Focused on electrical engineering...
+--- 📫 How to reach me ... sharonshamay22@gmail.com
 
 <!---
 sharonLmao/sharonLmao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
