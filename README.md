@@ -9,9 +9,8 @@
 
 ## Let's Connect
 - 📧 Email: [sharonshamay22@gmail.com](mailto:sharonshamay22@gmail.com)
-- 💼 LinkedIn: [Sharon Shamay](https://www.linkedin.com/in/sharonshamay/)
-- 🐦 Twitter: [@sharonLmao](https://twitter.com/sharonLmao)
-- 🌐 Portfolio: [sharonshamay.dev](https://sharonshamay.dev)
+- 💼 LinkedIn: [Sharon Shamay](https://www.linkedin.com/in/sharon-shamay-a72b66231/)
+- 🌐 Working on: [refreshmdc.com](https://refreshmdc.com)
 
 ## GitHub Stats
 ![Sharon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharonLmao&show_icons=true&count_private=true&hide=prs&theme=radical)
