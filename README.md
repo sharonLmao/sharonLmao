@@ -9,6 +9,7 @@
 
 ## Let's Connect
 - 📧 Email: [sharonshamay22@gmail.com](mailto:sharonshamay22@gmail.com)
+- 📧 Secondery Email: [sharon@refreshmdc.com](mailto:sharonshamay22@gmail.com)
 - 💼 LinkedIn: [Sharon Shamay](https://www.linkedin.com/in/sharon-shamay-a72b66231/)
 - 🌐 Working on: [refreshmdc.com](https://refreshmdc.com)
 
