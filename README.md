@@ -19,7 +19,7 @@
 
 <br>
 
-<h3 align="left">Languages :</h3>
+<h3 align="left">Languages 👨‍💻</h3>
 <p align="left">
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"
@@ -63,7 +63,6 @@
         alt="mysql" width="40" height="40" />
     </a>
 </p>
-<br>
 
 ## GitHub Stats
 ![Sharon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharonLmao&show_icons=true&count_private=true&hide=prs&theme=radical)
