@@ -6,13 +6,6 @@
 ## Current Endeavors
 - 📚 Studying electrical engineering with a focus on cutting-edge technologies.
 - 💡 Exploring the intersection of software and hardware to create innovative solutions.
-
-## Let's Connect
-- 📧 Email: [sharonshamay22@gmail.com](mailto:sharonshamay22@gmail.com)
-- 📧 Secondery Email: [sharon@refreshmdc.com](mailto:sharonshamay22@gmail.com)
-- 💼 LinkedIn: [Sharon Shamay](https://www.linkedin.com/in/sharon-shamay-a72b66231/)
-- 🌐 Working on: [refreshmdc.com](https://refreshmdc.com)
-
 <br>
 
 <h3 align="left">Languages :</h3>
@@ -61,6 +54,13 @@
 </p>
 
 <br>
+## Let's Connect
+- 📧 Email: [sharonshamay22@gmail.com](mailto:sharonshamay22@gmail.com)
+- 📧 Secondery Email: [sharon@refreshmdc.com](mailto:sharonshamay22@gmail.com)
+- 💼 LinkedIn: [Sharon Shamay](https://www.linkedin.com/in/sharon-shamay-a72b66231/)
+- 🌐 Working on: [refreshmdc.com](https://refreshmdc.com)
+
+
 
 
 ## GitHub Stats
