@@ -6,6 +6,29 @@
 ## Current Endeavors
 - 📚 Studying electrical engineering with a focus on cutting-edge technologies.
 - 💡 Exploring the intersection of software and hardware to create innovative solutions.
+
+# 📮 Reach Me
+
+<details>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/burgil/sayjs">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonLmao&repo=VisionPro&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary><b>🌐 &nbsp;Projects</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://sharonLmao/VisionPro/">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonLmao&repo=VisionPro&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
+    </a>
+  </p>
+</details>
+
+
 <br>
 
 <h3 align="left">Languages :</h3>
@@ -52,16 +75,7 @@
         alt="mysql" width="40" height="40" />
     </a>
 </p>
-
 <br>
-## Let's Connect
-- 📧 Email: [sharonshamay22@gmail.com](mailto:sharonshamay22@gmail.com)
-- 📧 Secondery Email: [sharon@refreshmdc.com](mailto:sharonshamay22@gmail.com)
-- 💼 LinkedIn: [Sharon Shamay](https://www.linkedin.com/in/sharon-shamay-a72b66231/)
-- 🌐 Working on: [refreshmdc.com](https://refreshmdc.com)
-
-
-
 
 ## GitHub Stats
 ![Sharon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharonLmao&show_icons=true&count_private=true&hide=prs&theme=radical)
