@@ -54,7 +54,7 @@
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg"
         alt="mysql" width="40" height="40" />
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cloudflare-Dark.svg"
         alt="mysql" width="40" height="40" />
     </a>
