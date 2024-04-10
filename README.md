@@ -1,5 +1,4 @@
 # Hi there, I'm Sharon
-- 📚 HTML, JS, SQL, C++, LUA...
 - Focused on electrical engineering and technology exploration.
 - 📫 Reach out to me at: [sharonshamay123@gmail.com](mailto:sharonshamay123@gmail.com)
 
@@ -7,6 +6,7 @@
 - 📚 Studying electrical engineering with a focus on cutting-edge technologies.
 - 💡 Exploring the intersection of software and hardware to create innovative solutions.
 
+<br>
 <details>
   <summary><b>🌐 &nbsp;Projects</b></summary>
   <br/>
