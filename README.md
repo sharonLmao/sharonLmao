@@ -1,33 +1,21 @@
 # Hi there, I'm Sharon
 - 📚 HTML, JS, SQL, C++, LUA...
 - Focused on electrical engineering and technology exploration.
-- 📫 Reach out to me at: [sharonshamay22@gmail.com](mailto:sharonshamay22@gmail.com)
+- 📫 Reach out to me at: [sharonshamay123@gmail.com](mailto:sharonshamay123@gmail.com)
 
 ## Current Endeavors
 - 📚 Studying electrical engineering with a focus on cutting-edge technologies.
 - 💡 Exploring the intersection of software and hardware to create innovative solutions.
 
-# 📮 Reach Me
-
-<details>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/burgil/sayjs">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonLmao&repo=VisionPro&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
-    </a>
-  </p>
-</details>
-
 <details>
   <summary><b>🌐 &nbsp;Projects</b></summary>
   <br/>
   <p align="center">
-    <a href="https://sharonLmao/VisionPro/">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonLmao&repo=VisionPro&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
+    <a href="https://github.com/sharonLmao/VisionPlus">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonLmao&repo=VisionPlus&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
     </a>
   </p>
 </details>
-
 
 <br>
 
