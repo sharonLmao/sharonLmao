@@ -7,17 +7,7 @@
 - 💡 Exploring the intersection of software and hardware to create innovative solutions.
 
 <br>
-<details>
-  <summary><b>🌐 &nbsp;Projects</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/sharonLmao/VisionPlus">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonLmao&repo=VisionPlus&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
-    </a>
-  </p>
-</details>
 
-<br>
 
 <h3 align="left">Languages 👨‍💻</h3>
 <p align="left">
@@ -63,6 +53,16 @@
         alt="mysql" width="40" height="40" />
     </a>
 </p>
+
+<details>
+  <summary><b>🌐 &nbsp;Projects</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/sharonLmao/VisionPlus">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharonLmao&repo=VisionPlus&theme=transparent&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false&v=42" />
+    </a>
+  </p>
+</details>
 
 ## GitHub Stats
 ![Sharon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharonLmao&show_icons=true&count_private=true&hide=prs&theme=radical)
