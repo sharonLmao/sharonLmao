@@ -1,6 +1,6 @@
 # Hi there, I'm Sharon
 - Focused on electrical engineering and technology exploration.
-- 📫 Reach out to me at: [sharonshamay123@gmail.com](mailto:sharonshamay123@gmail.com)
+- 📫 Reach out to me at: [shsha1000000@gmail.com](mailto:shsha1000000@gmail.com)
 
 ## Current Endeavors
 - 📚 Studying electrical engineering with a focus on cutting-edge technologies.
